@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="appbarPaddingTop">8dp</dimen>
+    <dimen name="postCardMargin">8dp</dimen>
+    <dimen name="postsCountPaddingBottom">3dp</dimen>
+    <dimen name="postTitlePadding">10dp</dimen>
+    <dimen name="postTextSize">18sp</dimen>
+    <dimen name="floatingActionButtonMargin">20dp</dimen>
+    <dimen name="card_margin">8dp</dimen>
+    <dimen name="card_radius">5dp</dimen>
+    <dimen name="image_height">100dp</dimen>
+    <dimen name="category_padding">10dp</dimen>
+    <dimen name="category_name">16dp</dimen>
+    <dimen name="count_padding_bottom">5dp</dimen>
+    <dimen name="count">12dp</dimen>
+    <dimen name="spacing_medium">8dp</dimen>
+    <dimen name="spacing_large">16dp</dimen>
+</resources>
